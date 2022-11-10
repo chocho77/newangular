@@ -9,6 +9,8 @@ export class RoomsComponent implements OnInit {
 
   hotelName = 'Hilton Hotel';
 
+  numberOfRooms = 10;
+
   constructor() { }
 
   ngOnInit(): void {
